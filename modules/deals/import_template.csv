@@ -1,0 +1,4 @@
+title,contact_email,amount,stage,expected_close_date
+Sale to Ahmed,ahmed@example.com,1200,prospecting,2026-06-01
+Big Offer to Abdullah,abdullah@example.com,2000,proposal,2026-06-15
+Corporate Deal,corp.client@example.com,5000,negotiation,2026-07-01

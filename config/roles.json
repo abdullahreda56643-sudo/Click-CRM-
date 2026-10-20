@@ -1,0 +1,120 @@
+{
+    "admin": {
+        "dashboard": [
+            "view"
+        ],
+        "contacts": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ],
+        "deals": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ],
+        "tasks": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ],
+        "tickets": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ],
+        "projects": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ],
+        "documents": [
+            "view",
+            "upload",
+            "delete"
+        ],
+        "audit": [
+            "view"
+        ],
+        "reports": [
+            "view"
+        ],
+        "users": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ]
+    },
+    "manager": {
+        "tasks": [
+            "view",
+            "add",
+            "edit",
+            "delete"
+        ],
+        "tickets": [
+            "view",
+            "add",
+            "edit"
+        ],
+        "projects": [
+            "view",
+            "add",
+            "edit"
+        ],
+        "documents": [
+            "view",
+            "upload",
+            "delete"
+        ],
+        "audit": [
+            "view"
+        ],
+        "reports": [
+            "view"
+        ],
+        "users": [
+            "view"
+        ]
+    },
+    "user": {
+        "dashboard": [
+            "view"
+        ],
+        "contacts": [
+            "view",
+            "add"
+        ],
+        "deals": [
+            "view",
+            "add"
+        ],
+        "tasks": [
+            "view",
+            "add",
+            "edit"
+        ],
+        "tickets": [
+            "view",
+            "add"
+        ],
+        "projects": [
+            "view"
+        ],
+        "documents": [
+            "view",
+            "upload"
+        ],
+        "audit": [],
+        "reports": [
+            "view"
+        ],
+        "users": []
+    }
+}

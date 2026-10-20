@@ -1,0 +1,9 @@
+/config/config.php
+/vendor/
+/composer.phar
+/.env
+/.env.*
+/logs/*
+!/logs/.gitkeep
+/uploads/*
+!/uploads/.htaccess

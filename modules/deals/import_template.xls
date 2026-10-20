@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:o="urn:schemas-microsoft-com:office:office"
+          xmlns:x="urn:schemas-microsoft-com:office:excel"
+          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="Deals Template">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">title</Data></Cell>
+        <Cell><Data ss:Type="String">contact_email</Data></Cell>
+        <Cell><Data ss:Type="Number">amount</Data></Cell>
+        <Cell><Data ss:Type="String">stage</Data></Cell>
+        <Cell><Data ss:Type="String">expected_close_date</Data></Cell>
+      </Row>
+
+      <Row>
+        <Cell><Data ss:Type="String">Sale to Ahmed</Data></Cell>
+        <Cell><Data ss:Type="String">ahmed@example.com</Data></Cell>
+        <Cell><Data ss:Type="Number">1200</Data></Cell>
+        <Cell><Data ss:Type="String">prospecting</Data></Cell>
+        <Cell><Data ss:Type="String">2026-06-01</Data></Cell>
+      </Row>
+
+      <Row>
+        <Cell><Data ss:Type="String">Big Offer to Abdullah</Data></Cell>
+        <Cell><Data ss:Type="String">abdullah@example.com</Data></Cell>
+        <Cell><Data ss:Type="Number">2000</Data></Cell>
+        <Cell><Data ss:Type="String">proposal</Data></Cell>
+        <Cell><Data ss:Type="String">2026-06-15</Data></Cell>
+      </Row>
+
+      <Row>
+        <Cell><Data ss:Type="String">Corporate Deal</Data></Cell>
+        <Cell><Data ss:Type="String">corp.client@example.com</Data></Cell>
+        <Cell><Data ss:Type="Number">5000</Data></Cell>
+        <Cell><Data ss:Type="String">negotiation</Data></Cell>
+        <Cell><Data ss:Type="String">2026-07-01</Data></Cell>
+      </Row>
+
+    </Table>
+  </Worksheet>
+</Workbook>
